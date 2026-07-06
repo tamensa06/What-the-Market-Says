@@ -1,4 +1,4 @@
-# What-the-Market-Says
+# What-the-Market-Says (Reconciliation Project)
 This project reconciles two independent Nigerian food price datasets — FEWS NET and WFP — to determine where they agree, where they diverge, and why. Both organisations track food prices across Nigerian markets independently but use different naming conventions, unit formats, and geographic coverage.
 
 
